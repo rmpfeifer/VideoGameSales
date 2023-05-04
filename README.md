@@ -1,1 +1,1 @@
-# VideoGameSales
+The final for one of my mlas classes, the purpose of this project was to find a large dataset and make some sense out of it. I wanted work on something I find intresting, so I got a list of over 50,000 games and how they sold. Using several python libraries such as seaborn and pandas, I found what attributes such as genre and esrb rating a game should have to maximise global sales.
